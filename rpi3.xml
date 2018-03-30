@@ -40,7 +40,7 @@
         <project path="linux"                name="SuperJason/linux.git"                revision="7d976fc52ae3f04618062967948e626166f1904a" />
         <project path="u-boot"               name="SuperJason/u-boot.git"               revision="bc6d93cf5eee9fc979a7c5141ff6312bed2835a2"/>
         <project path="arm-trusted-firmware" name="SuperJason/arm-trusted-firmware.git" revision="1da4e15529a32fa244f5e3effc9a90549beb1a26"/>
-        <project path="rasphyp"              name="SuperJason/rasphyp.git"              revision="origin/test"/>
+        <project path="raspihyp"             name="SuperJason/raspihyp.git"             revision="test"/>
         <project path="build"                name="SuperJason/build.git">
                 <linkfile src="rpi3.mk" dest="build/Makefile" />
                 <linkfile src="rpi3/debugger/pi3.cfg" dest="build/pi3.cfg" />
